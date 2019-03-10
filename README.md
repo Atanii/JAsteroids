@@ -2,7 +2,7 @@
 
 Clone of the famous classic in pure Java.
 
-I made this project last year as a learning project. I used technics like SAT (Separating Axes Theorem) and even–odd rule algorithm.
+I made this game last year as a learning project. I used technics like SAT (Separating Axes Theorem) and even–odd rule algorithm.
 
 ## More info about these methods:
 - https://en.wikipedia.org/wiki/Hyperplane_separation_theorem
